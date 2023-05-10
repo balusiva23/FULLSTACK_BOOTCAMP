@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body{
+    font-family: 'Lato', sans-serif;
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQifNXcgaX77B187_5GiAFXyAiKL80kujqteg&usqp=CAU') ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+} 
+h1{
+    font-size: 60px;
+}
+.countdown{
+    transform: scale(2);
+    display: flex;
+    display: none;
+}
+.time{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 15px;
+}
+.time h2{
+  margin: 0 0 5px;
+}
+.year{
+    font-size: 200px;
+    opacity: 0.2;
+    position: absolute;
+    bottom: 20px;
+}

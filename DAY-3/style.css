@@ -1,0 +1,28 @@
+.content-table{
+    margin: 25px 0;
+    font-size:15px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 500px;
+    border-spacing: 0;
+    overflow: hidden;
+}
+
+.content-table thead{ 
+    background-color: red;
+    color: white;
+    text-align: center;
+ }
+
+.content-table th ,td{
+  padding: 12px 15px;
+}
+
+.test-table,
+.test-table td,
+.test-table th,
+.test-table tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 12px
+}

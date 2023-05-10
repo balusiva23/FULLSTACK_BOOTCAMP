@@ -1,0 +1,11 @@
+npm init -y
+express
+
+npm i express
+//body-parser
+npm i express body-parser
+//nodemon
+npm i -D nodemon
+
+//axios
+npm i axios

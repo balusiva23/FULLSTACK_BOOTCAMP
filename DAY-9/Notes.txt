@@ -1,0 +1,32 @@
+----git
+step 1:
+    git init
+step 2 :
+    git add .     ->>> git reset ->> re add files
+step 3 :
+     git commit -m "message"
+step 4 :
+     git remote add origin https://github.com/balusiva23/exchange-rate-cal.git
+step 5 :
+git push -u origin main
+
+
+<--- clone --->>
+git clone https://github.com/balusiva23/exchange-rate-cal.git  
+
+<-- create branch --->
+git checkout -b branchname
+
+<-- switch branch --->
+git checkout brancname
+
+<-- Delete branch --->
+git branch -d branchname
+git branch -D branchname
+
+<-- list branch --->
+
+git branch -a
+
+<-- push branch --->
+git push -u origin branchname

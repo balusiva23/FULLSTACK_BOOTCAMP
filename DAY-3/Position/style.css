@@ -1,0 +1,17 @@
+.parent{
+    background-color: aquamarine;
+    padding: 20px;
+    margin: 20px;
+}
+.child1{
+    
+    background-color: blueviolet;
+    position: relative;
+    top: 200px;
+}
+.child2{
+    background-color:beige ;
+}
+.child3{
+    background-color: rgb(221, 190, 12);
+}

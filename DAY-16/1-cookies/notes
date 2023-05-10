@@ -1,0 +1,14 @@
+npm init -y
+
+COOKIES
+npm i cookie-parser
+
+nodemon
+npm i -D nodemon
+
+express
+
+npm i express
+
+session
+npm i express express-session

@@ -1,0 +1,3 @@
+Passport is authentication middleware for Node.js
+
+1. npm install passport  passport-local-mongoose

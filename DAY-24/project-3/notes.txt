@@ -1,0 +1,4 @@
+generate token
+
+//jwt token
+npm i jsonwebtoken
